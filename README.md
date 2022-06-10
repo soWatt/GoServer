@@ -1,0 +1,1 @@
+This repository will contain a simple http server, I think I'm going to build some kind of API we will see.

@@ -8,7 +8,7 @@ import (
 
 func main() {
 	//simple easy pz server
-
+	//need to gather api ideas
 	helloHandler := func(w http.ResponseWriter, req *http.Request) {
 		io.WriteString(w, "Hello World!\n")
 		io.WriteString(w, "Testing\n")
